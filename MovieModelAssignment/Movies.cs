@@ -34,7 +34,7 @@ namespace MovieModelAssignment
                         Console.WriteLine("| " + mv.Reviews.Review[i].ReviewText);
 
                     }
-                    Console.WriteLine("| Total Rating: " + mv.Rating);
+                    Console.WriteLine("| Total Rating: " + mv.Rating.ToString("0.##"));
                     Console.WriteLine();
                 }
             }
