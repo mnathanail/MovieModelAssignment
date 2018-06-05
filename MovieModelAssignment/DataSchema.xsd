@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DataSchema"
+    targetNamespace="urn:movies"
+    xmlns:x="/urn:movies"       
+    elementFormDefault="qualified"
+    xmlns="http://tempuri.org/DataSchema.xsd"
+    xmlns:mstns="http://tempuri.org/DataSchema.xsd"
+    xmlns:xs="http://www.w3.org/2001/XMLSchema"
+    attributeFormDefault="unqualified"
+>
+
+  <xs:element name="Movies">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="Movie">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element type="xs:string" name="Title"/>
+              <xs:element type="xs:int" name="Earnings"/>
+              <xs:element name="Actors">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element type="xs:string" name="Actor" maxOccurs="unbounded" minOccurs="0"/>
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+              <xs:element name="Reviews">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element name="Review" maxOccurs="unbounded" minOccurs="0">
+                      <xs:complexType>
+                        <xs:sequence>
+                          <xs:element type="xs:float" name="ReviewRating"/>
+                          <xs:element type="xs:string" name="ReviewText"/>
+                        </xs:sequence>
+                      </xs:complexType>
+                    </xs:element>
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

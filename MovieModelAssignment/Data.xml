@@ -1,0 +1,215 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Movies>
+  <Movie>
+    <Title>Lucifer</Title>
+    <Earnings>352000</Earnings>
+    <Actors>
+      <Actor>Nathan Hope</Actor>
+      <Actor>Louis Shaw Milito</Actor>
+      <Actor>Eagle Egilsson</Actor>
+      <Actor>Tara Nicole Weyr</Actor>
+      <Actor>Karen Gaviola</Actor>
+    </Actors>
+    <Reviews>
+      <Review>
+        <ReviewRating>10</ReviewRating>
+        <ReviewText>How can you cancel the greatest show ever. In a world full of crap this was the only show that made me happy to watch. And Season 3 episode 24 was amazing. I am praying for being renewed. I am pretty sure that for so much money you can make up with good ideas. I understand that from now on it will be hard, but don't do the same as The Sicret Circle! Please! I give the show 10 out of 10!</ReviewText>
+      </Review>
+      <Review>
+        <ReviewRating>9</ReviewRating>
+        <ReviewText>Are you kidding me! Why would they do. The show is great. They keep renewing these other shows that stink. Look at Timeless they canceled and the fans were outraged and they brought it back
+        </ReviewText>
+      </Review>
+    </Reviews>
+  </Movie>
+  <Movie>
+    <Title>Brooklyn Nine-Nine</Title>
+    <Earnings>258222</Earnings>
+    <Actors>
+      <Actor>Andre Braugher</Actor>
+      <Actor>Andy Samberg</Actor>
+      <Actor>Stephanie Beatriz</Actor>
+    </Actors>
+    <Reviews>
+      <Review>
+        <ReviewRating>9</ReviewRating>
+        <ReviewText>I respect that different people have different tastes in music, clothes, women, movies etc...but if you are saying that this show is bad I really feel like your sense of humor is lacking. I'm a detective for one of the largest police departments in the country and I will advise everyone that doesn't realize it but this show is closer to how real police go about their day than any of those CSI, or garbage procedural shows. Cops do all that stuff all day...pranking each other, busting balls, trying to have a little fun. The job gets a little heavy sometimes so if we didn't have some fun it would be long days. This show is hilarious and perfectly timed retorts by Braugher and Crews are classic. Its the low key lines that make I hilarious...the over the top cheap laughs are somethkng all shows have to do to please the masses...who are stupid. Pay attention to the underlying comedy...its priceless......."Terry does love yogurt"!</ReviewText>
+      </Review>
+      <Review>
+        <ReviewRating>7</ReviewRating>
+        <ReviewText>After first hearing about Brooklyn Nine-Nine, I was fairly skeptical about yet another attempt on Fox's part to regain their former position as king of network comedy, however; minutes after it had started, I was able to find an affection for this show that I haven't had for a comedy pilot since The Office.</ReviewText>
+      </Review>
+    </Reviews>
+  </Movie>
+  <Movie>
+    <Title>Game Night</Title>
+    <Earnings>1258742</Earnings>
+    <Actors>
+      <Actor>Jason Bateman</Actor>
+      <Actor>Rachel McAdams</Actor>
+      <Actor>Kyle Chandler</Actor>
+    </Actors>
+    <Reviews>
+      <Review>
+        <ReviewRating>9.8</ReviewRating>
+        <ReviewText>Fast and funny, filled with memorable characters, and able to balance slapstick and violence without spilling too far in either direction, this frenetic R-rated farce is that rare comic gem that lands on all the spaces without ever going to jail.</ReviewText>
+      </Review>
+      <Review>
+        <ReviewRating>7.5</ReviewRating>
+        <ReviewText>It’s essentially David Fincher’s The Game matched with the comic overtones of Horrible Bosses, which is why it winds up being an entertaining jaunt.</ReviewText>
+      </Review>
+    </Reviews>
+  </Movie>
+  <Movie>
+    <Title>Ocean's 8</Title>
+    <Earnings>1258742</Earnings>
+    <Actors>
+      <Actor>Sandra Bullock</Actor>
+      <Actor>Cate Blanchett</Actor>
+      <Actor>Anne Hathaway</Actor>
+    </Actors>
+    <Reviews>
+      <Review>
+        <ReviewRating>7.2</ReviewRating>
+        <ReviewText>Like her now deceased brother before her, Debbie Ocean (Sandra Bullock) has spent a stint in jail dreaming up a heist that will take place during a hugely publicized event and features revenge as a bonus.  But instead of a boxing match in Vegas, Debbie and her team will be attempting to steal the Toussaint, a six pound diamond necklace locked in an underground Cartier vault, during New York City's flashiest event of the year, the Met Gala, in "Ocean's 8."</ReviewText>
+      </Review>
+    </Reviews>
+  </Movie>
+  <Movie>
+    <Title>Animal Kingdom</Title>
+    <Earnings>125800</Earnings>
+    <Actors>
+      <Actor>Ellen Barkin</Actor>
+      <Actor>Shawn Hatosy</Actor>
+      <Actor>Ben Robsony</Actor>
+    </Actors>
+    <Reviews>
+      <Review>
+        <ReviewRating>9</ReviewRating>
+        <ReviewText>OK so the movie was absolute class. Sheer genius in every sense. But the thing is it was never going to reach the mass market.</ReviewText>
+      </Review>
+      <Review>
+        <ReviewRating>7</ReviewRating>
+        <ReviewText>Without losing a step the Australian hit film Animal Kingdom got a new location to southern California where Los Angeles takes the place of Melbourne. But even the family name Cody remains the same and the plot structure of the film the same. Whether it can last as a television series is open to question.</ReviewText>
+      </Review>
+      <Review>
+        <ReviewRating>7.5</ReviewRating>
+        <ReviewText>This is the best series i have ever been blessed to be entertained by in my 50 years of life.My nephew and I are glued to the screen during every episode.</ReviewText>
+      </Review>
+    </Reviews>
+  </Movie>
+  <Movie>
+    <Title>Arrow</Title>
+    <Earnings>125888</Earnings>
+    <Actors>
+      <Actor>Stephen Amell</Actor>
+      <Actor>Katie Cassidy</Actor>
+      <Actor>David Ramsey</Actor>
+    </Actors>
+    <Reviews>
+      <Review>
+        <ReviewRating>5</ReviewRating>
+        <ReviewText>The first 2 seasons of the show was amazing however after that it got stale and boring. I decided to give up less than half way through season 5. The flashbacks become uninteresting. The villains after 2 seasons are boring. Love story is soap opera material. Season 4 made the show unrealistic with the sci-fi magic. Arrow was more interesting when he was working alone without any sidekicks.</ReviewText>
+      </Review>
+      <Review>
+        <ReviewRating>4</ReviewRating>
+        <ReviewText>It's becoming so boring that every bad guy in the series has more brains, more skills and more bravery than Oliver Queen. It has failed the fans making the Arrow a weak, troublesome individual that really anybody can defeat. Start making him more astute, more strong, and wiser than his enemies. The series is plagued with Oliver's failures to succeed. You have a great potential for the series do not waste it on stupid writing. We want to see a strong Arrow not a weak one defeated by everybody. Make him a winner again.</ReviewText>
+      </Review>
+    </Reviews>
+  </Movie>
+  <Movie>
+    <Title>The Americans</Title>
+    <Earnings>1588778</Earnings>
+    <Actors>
+      <Actor>Keri Russell</Actor>
+      <Actor>Matthew Rhys</Actor>
+      <Actor>Keidrich Sellati</Actor>
+    </Actors>
+    <Reviews>
+      <Review>
+        <ReviewRating>10</ReviewRating>
+        <ReviewText>It is very rare that you have a near perfect episode, especially of a series on commercial television. But FX has done it here with The Americans. It is nearly flawless. Great mind candy for the thinking person, with something to come back to after the first viewing. I credit the success of The Americans to 3 things: Great script, great music, and Matthew Rhys.</ReviewText>
+      </Review>
+      <Review>
+        <ReviewRating>9</ReviewRating>
+        <ReviewText>Who doesn't love a cold war drama set in the early days of the Reagan administration about deep cover KGB spies posing as a wholesome "all American" family living in a DC suburb?</ReviewText>
+      </Review>
+    </Reviews>
+  </Movie>
+  <Movie>
+    <Title>Criminal Minds</Title>
+    <Earnings>1588708</Earnings>
+    <Actors>
+      <Actor>Matthew Gray Gubler</Actor>
+      <Actor>Kirsten Vangsness</Actor>
+      <Actor>A.J. Cook</Actor>
+    </Actors>
+    <Reviews>
+      <Review>
+        <ReviewRating>10</ReviewRating>
+        <ReviewText>I loved this </ReviewText>
+      </Review>
+      <Review>
+        <ReviewRating>9</ReviewRating>
+        <ReviewText>This is one of the best shows I have ever watched (and I watch some of the best on TV - The West Wing, all of the Law and Orders, House MD). On Wednesday nights, I use to watch "The West Wing", but then that moved to Sunday. I started to watch "Head Cases", but to my great disappointment (though not surprise) that was cancelled. So, on a whim, I tried out "Criminal Minds". I have never made a better TV decision.</ReviewText>
+      </Review>
+    </Reviews>
+  </Movie>
+  <Movie>
+    <Title>Deadpool 2</Title>
+    <Earnings>1288708</Earnings>
+    <Actors>
+      <Actor>Ryan Reynolds</Actor>
+      <Actor>Josh Brolin</Actor>
+      <Actor>Josh Brolin</Actor>
+    </Actors>
+    <Reviews>
+      <Review>
+        <ReviewRating>10</ReviewRating>
+        <ReviewText>Deadpool 2, while extremely thin on plot, is gleefully impish, entertaining and often laugh-out-loud funny. Almost everything that felt forced, crass and hamfisted in the original film now feels organic and effortless; a constant breezy stream of gags, quips and expertly choreographed action. Deadpool 2 is filthier, funnier and ferociously manic.</ReviewText>
+      </Review>
+      <Review>
+        <ReviewRating>10</ReviewRating>
+        <ReviewText>Deadpool 2 throws everything it has at you until you throw your arms up in happy surrender.</ReviewText>
+      </Review>
+    </Reviews>
+  </Movie>
+  <Movie>
+    <Title>Avengers: Infinity War</Title>
+    <Earnings>12887008</Earnings>
+    <Actors>
+      <Actor>Robert Downey Jr</Actor>
+      <Actor>Chris Hemsworth</Actor>
+      <Actor>Mark Ruffalo</Actor>
+    </Actors>
+    <Reviews>
+      <Review>
+        <ReviewRating>10</ReviewRating>
+        <ReviewText>Using the strength of its powerful and interesting villain to set the stakes higher than ever, Avengers: Infinity War successfully brings together the past 10 years of Marvel movies into a largely effective cocktail of super-heroic dramatics.</ReviewText>
+      </Review>
+      <Review>
+        <ReviewRating>10</ReviewRating>
+        <ReviewText>Somehow in its pure uproariousness, it works. It’s just a supremely watchable film, utterly confident in its self-created malleable mythology. And confident also in the note of apocalyptic darkness.</ReviewText>
+      </Review>
+    </Reviews>
+  </Movie>
+  <Movie>
+    <Title>Spider-Man</Title>
+    <Earnings>12897004</Earnings>
+    <Actors>
+      <Actor>Tom Holland</Actor>
+      <Actor>Michael Keaton</Actor>
+      <Actor>Michael Keaton</Actor>
+    </Actors>
+    <Reviews>
+      <Review>
+        <ReviewRating>9.1</ReviewRating>
+        <ReviewText>It’s a very human film, oozing with heart and believable stakes, a brilliant marriage that mirrors the enduring ethos of the Spider-Man comic book.</ReviewText>
+      </Review>
+      <Review>
+        <ReviewRating>8.7</ReviewRating>
+        <ReviewText>Spider-Man: Homecoming is sweet, witty, and fast-moving fun</ReviewText>
+      </Review>
+    </Reviews>
+  </Movie>
+</Movies>
